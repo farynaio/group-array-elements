@@ -1,0 +1,14 @@
+{
+  "name": "group-array-elements",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Adam Faryna (jarfarcontract@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
